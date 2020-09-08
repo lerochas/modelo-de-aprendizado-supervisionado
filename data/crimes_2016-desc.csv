@@ -1,0 +1,30 @@
+NUM_BO,Ano da ocorrencia
+ANO_BO,Número do BO
+ID_DELEGACIA,Código da delegacia responsável pelo registro da ocorrencia
+NOME_DEPARTAMENTO,Departamento responsável pelo registro
+NOME_SECCIONAL,Delegacia Seccional responsável pelo registro
+DELEGACIA,Delegacia responsável pelo registro
+NOME_DEPARTAMENTO_CIRC,Departamento responsável pela área onde houve a ocorrencia
+NOME_SECCIONAL_CIRC,Delegacia Seccional responsável pela área onde houve a ocorrencia
+NOME_DELEGACIA_CIRC,Delegacia responsável pela área onde houve a ocorrencia
+ANO,Ano do registro
+MES,mês do registro
+DATA_OCORRENCIA_BO,data do fato
+HORA_OCORRENCIA_BO,hora do fato
+FLAG_STATUS,Indica se é crime consumado ou tentado
+RUBRICA,Natureza juridica da ocorrencia
+DESDOBRAMENTO,Desdobramentos juridicos envolvidos na ocorrencia
+CONDUTA,Tipo de local ou circunstancia que qualifica a ocorrencia
+LATITUDE,coordenadas geograficas
+LONGITUDE,coordenadas geograficas
+CIDADE,Municipio de registro da ocorrencia
+LOGRADOURO,Logradouro do fato
+NUMERO_LOGRADOURO,Número do Logradouro do fato
+FLAG_STATUS,Indica se é crime consumado ou tentado
+DESCR_TIPO_PESSOA,indica o tipo de envolvimento da pessoa na ocorrencia
+CONT_PESSOA,indica ordem de registro da pessoa no BO
+SEXO_PESSOA,sexo da pessoa relacionada
+IDADE_PESSOA,idade da pessoa relacionada
+COR,cor/raça da pessoa relacionada
+DESCR_PROFISSAO,PROFISSÃO DA PESSOA
+DESCR_GRAU_INSTRUCAO,grau de intrução da pessoa
