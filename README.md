@@ -1,7 +1,7 @@
 # Modelo de Aprendizado Supervisionado
 ## NAC de Inteligência Artificial e Machine Learning
 
-Integrantes: <p>
+Integrantes: 
 - Alfredo Henrique, rm 83993
 - Gabriel Fellone, rm 82012
 - Leandro Rocha, rm 84378
